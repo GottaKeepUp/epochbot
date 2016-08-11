@@ -1,7 +1,7 @@
 {
-	'server': 'irc.chat.twitch.tv',
-	'port': 6667,
-	'username': 'mybot',
-	'oauth_password': 'oauth:',
-	'debug': true
+	"server": "irc.chat.twitch.tv",
+	"port": 6667,
+	"username": "mybot",
+	"oauth_password": "oauth:",
+	"debug": true
 }
