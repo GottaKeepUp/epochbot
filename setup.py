@@ -9,7 +9,7 @@ config = {
     'url': 'https://github.com/while-loop/epochbot',
     'author_email': 'botepoch@gmail.com.',
     'version': '0.1',
-    'install_requires': [],
+    'install_requires': ['requests'],
     'packages': ['epochbot'],
     'scripts': [],
     'name': 'EpochBot'
